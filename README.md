@@ -1,0 +1,1 @@
+# couchbase-capella-provider-binary
